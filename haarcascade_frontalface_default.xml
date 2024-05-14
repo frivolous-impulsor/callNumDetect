@@ -1,0 +1,1 @@
+face_cascade &lt;span class="pl-k"&gt;=&lt;/span&gt; cv2.CascadeClassifier(cascasdepath)
